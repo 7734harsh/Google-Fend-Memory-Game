@@ -33,10 +33,6 @@ In the real-life game, players flip over cards to locate the pairs that match. T
 -   What happens when cards do not match
 -   When the game finishes
 
-### Screenshots
-
-![Mobile view]()
-
 
 ### External libraries Used
 
